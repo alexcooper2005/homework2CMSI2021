@@ -26,3 +26,6 @@ The Amiibo Info Lister is a web application that allows users to enter an Amiibo
 - **No Title in Index**: I added the <title> with the Amiibo Info Lister name to it
 
 
+##Link (GitHub Pages)
+
+https://alexcooper2005.github.io/homework2CMSI2021/
